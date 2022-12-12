@@ -1,0 +1,16 @@
+{
+    "project_name": "name of your project",
+    "amount": 10,
+    "profile_images": 5,
+    "description": "",
+    "api_key": "your secret access token",
+     "folders": [
+        "background",
+        "watermark"
+    ],
+    "ignore": [
+        ".DS_Store"
+    ],
+    "rarity": {
+    }
+}
